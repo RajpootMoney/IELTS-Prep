@@ -97,3 +97,4 @@ At the end of every week:
 1. Sum errors by category in `ERROR_LOG.xlsx` (Category Analysis tab).
 2. Identify the **Top 2 Dominant Categories** (e.g., `LOGIC_ASSUME` 40%, `DISTRACTOR` 30%).
 3. The following week's daily schedule is automatically calibrated to dedicate 15-minute daily micro-drills specifically to the top 2 error categories until their frequency drops below 10%.
+

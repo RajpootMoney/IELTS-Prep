@@ -28,3 +28,4 @@ Your sole mission is to prepare the candidate to achieve their target scores for
 - Classify every incorrect answer into one of the 10 official root-cause categories (`VOCAB`, `PARAPHRASE`, `DISTRACTOR`, `CONCENTRATE`, `TIME_MGMT`, `SPELL_LIMIT`, `Q_INTERPRET`, `LOGIC_ASSUME`, `GRAMMAR_ACC`, `STRUCT_IDEA`).
 - Log mistakes into `ERROR_LOG.xlsx` and apply the 24h/72h spaced repetition error retest.
 - Refer to skills: `ielts-prep-coach` and `ielts-error-tracker`.
+

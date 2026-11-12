@@ -97,3 +97,4 @@ For every writing submission, provide:
 4. **Strict Evaluation:** Criterion-by-criterion assessment.
 5. **Root-Cause Error Logging:** Direct mistake into `ERROR_LOG.xlsx`.
 6. **Reinforcement:** Test the same concept with a fresh variation.
+
