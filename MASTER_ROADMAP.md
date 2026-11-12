@@ -3,14 +3,14 @@
 
 ---
 
-## 1. Study Time Allocation Matrix
+## 1. Study Time Allocation Matrix (Calibrated for Writing & Reading Priority)
 
 | Module | Weekly Allocation | Weekly Hours (Regular: 7–8 hrs) | Priority Focus & Objective |
 |---|:---:|:---:|---|
-| **Listening** | **35%** | 2.5 – 3.0 Hours | **Highest Priority.** Daily exposure, Section 4 stamina, rapid paraphrase recognition, distractor immunity. |
-| **Reading (GT)** | **25%** | 2.0 Hours | Speed scanning, Section 3 academic/general text handling, TFNG perfection (34/40 minimum). |
-| **Writing** | **25%** | 2.0 Hours | Task 1 letter conventions, Task 2 Band 7 paragraph structure (PEEL), error-free complex grammar. |
-| **Speaking** | **15%** | 1.0 – 1.5 Hours | Part 2 two-minute fluency, Part 3 PREP formula, natural fillers, pronunciation clarity. |
+| **Writing** | **40%** | 3.0 – 3.5 Hours | **Primary Focus.** Task 1 letter conventions, Task 2 Band 7 PEEL paragraphs, grammatical accuracy, avoiding Band 6.5 plateau. |
+| **Reading (GT)** | **35%** | 2.5 – 3.0 Hours | **Primary Focus.** Closing the 30 to 34+ gap. Speed scanning, TFNG contradiction logic, Section 3 academic/general text handling. |
+| **Listening** | **15%** | 1.0 – 1.5 Hours | High-efficiency Section 4 maintenance, distractor immunity, maintaining Band 8.0 baseline. |
+| **Speaking** | **10%** | 0.75 – 1.0 Hour | Part 2 two-minute cue card frameworks, Part 3 PREP formula, natural discourse markers. |
 
 ---
 

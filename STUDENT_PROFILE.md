@@ -5,7 +5,12 @@
 - **Target Examination:** IELTS General Training (Computer-Delivered / Paper-Based)
 - **Primary Objective:** Canadian Permanent Residency via Express Entry (Federal Skilled Worker / Canadian Experience Class)
 - **Benchmark Required:** Canadian Language Benchmark (CLB) Level 9 / 10
-- **Daily Time Budget:**
+- **Strategic Focus Realignment:** **Primary focus on WRITING and READING** (the two highest-friction modules for CLB 9). Listening and Speaking are maintained through high-efficiency targeted drills.
+- **Revised Time Allocation:**
+  - **Writing: 40%** (Task 1 Letter mastery + Task 2 Essay architecture, criteria-driven feedback)
+  - **Reading (GT): 35%** (Closing the gap from 30/40 to 34–35/40; eliminating TFNG and Heading traps)
+  - **Listening: 15%** (Section 4 maintenance, distractor immunity, high-efficiency drills)
+  - **Speaking: 10%** (Fluency routines, Part 2 & 3 frameworks)
   - *Regular Working Days:* 60–90 minutes
   - *Intense Work Days (11-hr shifts):* 30 minutes minimum effective dose
   - *Weekend / Long Session:* 2–2.5 hours
